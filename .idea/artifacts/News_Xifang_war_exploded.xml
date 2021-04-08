@@ -2,10 +2,10 @@
   <artifact type="exploded-war" name="News_Xifang:war exploded">
     <output-path>$PROJECT_DIR$/out/artifacts/News_Xifang_war_exploded</output-path>
     <root id="root">
-      <element id="javaee-facet-resources" facet="News_Xifang/web/Web" />
+      <element id="javaee-facet-resources" facet="Xifang-Headlines/web/Web" />
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="News_Xifang" />
+          <element id="module-output" name="Xifang-Headlines" />
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="lib" />
